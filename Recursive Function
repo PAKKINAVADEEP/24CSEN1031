@@ -22,3 +22,7 @@ int main() {
   
   return 0;
 }
+Output
+Enter a non-negative number: 10
+Factorial of 10 is 3628800
+Using recursive method Factorial of 10 is 3628800
