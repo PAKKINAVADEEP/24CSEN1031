@@ -20,3 +20,8 @@ int main() {
    
    return 0;
 }
+Output:
+enter any number to be reversed: 385
+
+
+after reversing: 583
