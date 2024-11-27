@@ -19,3 +19,7 @@ int main() {
 
     return 0;
 }
+ OUTPUT:
+
+ Before Sorting:a=6,b=2,c=5
+After Sorting: a=2,b=5,c=6
