@@ -11,3 +11,7 @@ int main() {
         printf("\nThe number%d is positive and odd ",a);
      return 0;
 }
+OUTPUT:
+Enter an integer (positive or negative): 5
+
+The number5 is positive and odd 
