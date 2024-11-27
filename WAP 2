@@ -23,3 +23,8 @@ int main() {
    
    return 0;
 }
+Output:
+enter any number: 20
+
+
+ the sum of the digits in the entered number is : 2
