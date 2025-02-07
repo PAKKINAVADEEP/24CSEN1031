@@ -1,0 +1,36 @@
+Problem Statement
+
+
+
+Develop a text analysis tool that needs to count the occurrences of a specific substring within a given text string.
+
+
+
+Write a function count_substrings(text, substring) that takes two inputs: the text string and the substring to be counted. The function should count how many times the substring appears in the text string and return the count.
+
+
+
+Function Signature: count_substrings(text, substring)
+
+Input format :
+The first line of the input consists of a string representing the text.
+
+The second line consists of a string representing the substring.
+
+Output format :
+The output should display a single line of output containing the count of occurrences of the substring in the text string.
+
+
+
+Refer to the sample output for the formatting specifications.
+
+Code constraints :
+In this scenario, the given test cases will fall under the following constraints:
+
+1 ≤ Length of text ≤ 500
+
+1 ≤ Length of substring ≤ 50
+SOLUTION::::
+a=input()
+b= input()
+print("The substring \'{}\' appears {} times in the text.".format(b,a.count(b)))
